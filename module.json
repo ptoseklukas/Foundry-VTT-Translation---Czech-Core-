@@ -1,0 +1,50 @@
+{
+  "id": "cs-CZ",
+  "name": "cs-CZ",
+  "title": "Translation: Czech [Core]",
+  "description": "Czech language support for Foundry VTT",
+  "version": "1.0",
+  "compatibility": {
+    "minimum": 11,
+    "verified": "11"
+  },
+  "coreTranslation": true,
+  "authors": [
+    {
+      "name": "Mrkew",
+      "discord": "mrkew",
+      "youtube": "skorohrdinove",
+      "url": "https://www.skorohrdinove.cz",
+      "email": "skorohrdinove@gmail.com"
+    },
+    {
+      "name": "Yancho"
+    },
+    {
+      "name": "Exi"
+    },
+    {
+      "name": "DeznekCZ"
+    },
+    {
+      "name": "Pan Bača"
+    },
+    {
+      "name": "rjcz"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "cs",
+      "name": "Čeština",
+      "path": "lang/cs.json"
+    }
+  ],
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+  "url": "https://github.com/ptoseklukas/Foundry-VTT-Translation-Czech-Core",
+  "manifest": "https://github.com/ptoseklukas/Foundry-VTT-Translation-Czech-Core/blob/master/module.json",
+  "download": "https://gitlab.com/ptoseklukas/foundryvtt-lang-cs-cz/-/jobs/artifacts/master/raw/cs-CZ.zip?job=build",
+  "readme": "https://github.com/ptoseklukas/Foundry-VTT-Translation-Czech-Core/blob/master/README.md"
+}
